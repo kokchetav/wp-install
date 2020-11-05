@@ -3,7 +3,7 @@
 ```bash
 vim wp.conf
 ```
-
+```
 <VirtualHost *:80>
 	ServerAdmin root@localhost
 	DocumentRoot /var/www/wordpress
@@ -15,6 +15,7 @@ vim wp.conf
 	ErrorLog /var/log/httpd/wordpress-error.log
 	CustomLog /var/log/httpd/wordpress.log common
 </VirtualHost>
+```
 
 **All commands are to be run with sudo or as root**
 - Copy the apache config file to apache dir and test syntax for errors:
