@@ -6,7 +6,7 @@ and accessible through a browser, see picture below:
 
 
  For this installation we'll omit all domain-specific settings. Also, we won't configure SSL certs for the site.
-## Intstall all requirements:
+## Install all prerequisites:
 
 - Follow the steps in [Installation steps](installation/steps.md)
 
